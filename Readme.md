@@ -1,4 +1,4 @@
-Paint program in Java that allows users to 
+Paint program in Java that allows users to:
 
  * draw shapes of different sizes and colours
  * manipulate and delete shapes
