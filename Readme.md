@@ -2,7 +2,7 @@ Paint program in Java that allows users to:
 
  * draw shapes of different sizes and colours
  * manipulate and delete shapes
- * save/deletion
+ * save/deletion<br/>
  Download the jar file to view it.
  
 <p align="center">
